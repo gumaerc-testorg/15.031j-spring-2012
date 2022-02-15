@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[Tomorrow''s Electric Power System (PDF - 1.9MB)](resources/mit15_031js12_lec18)'
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: "Lecture 18: Tomorrow\u2019s Electric Power System"
 uid: 163f5197-ea4a-2358-2cb5-b8b61e77c194
 video_files:
   archive_url: http://www.archive.org/download/MIT15.031JS12/MIT15_031JS12_lec18_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/15-031j-energy-decisions-markets-and-policies-spring-2012/bb69c323965a5680b5c0672680889525_ruRaCsL9tpQ.vtt
+  video_captions_file: /courses/15-031j-energy-decisions-markets-and-policies-spring-2012/bb69c323965a5680b5c0672680889525_ruRaCsL9tpQ.vtt
   video_thumbnail_file: https://img.youtube.com/vi/ruRaCsL9tpQ/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/15-031j-energy-decisions-markets-and-policies-spring-2012/e17daccf09f80910dd78ede7ab41526c_ruRaCsL9tpQ.pdf
+  video_transcript_file: /courses/15-031j-energy-decisions-markets-and-policies-spring-2012/e17daccf09f80910dd78ede7ab41526c_ruRaCsL9tpQ.pdf
 video_metadata:
   youtube_id: ruRaCsL9tpQ
 ---

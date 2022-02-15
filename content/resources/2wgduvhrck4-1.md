@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-031j-energy-decisions-markets-and-policies-spring-2012/9572f9f74021ff946495cab1093a1087_2wGduvHRck4.pdf
+file: /media/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/9572f9f74021ff946495cab1093a1087_2wGduvHRck4.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 9572f9f7-4021-ff94-6495-cab1093a1087

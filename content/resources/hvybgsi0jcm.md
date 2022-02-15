@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-031j-energy-decisions-markets-and-policies-spring-2012/b330f0f6f98787f777d36f03fcf8fef2_hVYBgsi0JcM.srt
+file: /media/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/b330f0f6f98787f777d36f03fcf8fef2_hVYBgsi0JcM.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: b330f0f6-f987-87f7-77d3-6f03fcf8fef2

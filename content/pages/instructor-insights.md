@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 82d00a64-0fda-357e-e8bb-d13dc6e1fab4
 ---
@@ -50,28 +52,6 @@ HASS-S ![](/images/educator/icon-question-hass-s.png)
 ### Offered
 
 This course is occasionally offered during the fall semester.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![View of the tiered classroom toward the back left side of the room.]({{< resource_file 78143549-1806-621e-a69c-371d24312945 >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lectures and Recitations
-    
-    Tiered classroom with a capacity of 80. Technology included video projection, document camera, annotatable computer monitor, lecture capture, video conferencing, assistive listening, wireless network.
-    
-*   ![View of classroom from front shows computer, overhead, 8-top round student tables, and whiteboards around the entire room.]({{< resource_file 9ddb3b01-3888-a1de-4530-aafcce9615fc >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Break Out Sessions
-    
-    Flat classroom with a capacity of 108. Technology included video projection, document camera, annotatable computer monitor, lecture capture, video conferencing, assistive listening, wireless network.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
