@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: e159f4f4-ce06-ec35-3e79-63f979c240c3
 resourcetype: Document
 title: A Guide to Reading Social Science
 uid: 1ea3c46a-d438-6fc4-b3ca-69a69c4750b9

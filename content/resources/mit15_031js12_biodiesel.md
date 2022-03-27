@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a31622b4-3c75-4e46-9381-764b8069c51f
 resourcetype: Document
 title: 'Lecture 12 Reading: Biodiesel@MIT Case'
 uid: d2bdd05b-2542-d441-65af-ee4e31c02fb0

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 544209e9-3af0-e518-a19d-fff04470f178
 resourcetype: Document
 title: 'Recitation 5: Solutions'
 uid: 5f8b40e8-95e8-fb2e-879e-318637618458

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 544209e9-3af0-e518-a19d-fff04470f178
 resourcetype: Other
 title: 'Recitation 5: Spreadsheet'
 uid: 4354c5cf-b9c3-e3cc-d0a6-2e6150761a3f
