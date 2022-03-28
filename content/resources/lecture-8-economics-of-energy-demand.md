@@ -1,18 +1,18 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Economics of Energy Demand (PDF)](resources/mit15_031js12_lec8)'
 parent_title: Video Lectures
 parent_type: CourseSection
+parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Lecture 8: Economics of Energy Demand'
 uid: a17f6c13-7b2d-76e8-0d28-2abd60bacad0
 video_files:

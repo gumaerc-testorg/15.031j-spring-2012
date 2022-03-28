@@ -1,18 +1,18 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Tomorrow''s Electric Power System (PDF - 1.9MB)](resources/mit15_031js12_lec18)'
 parent_title: Video Lectures
 parent_type: CourseSection
+parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: "Lecture 18: Tomorrow\u2019s Electric Power System"
 uid: 163f5197-ea4a-2358-2cb5-b8b61e77c194
 video_files:

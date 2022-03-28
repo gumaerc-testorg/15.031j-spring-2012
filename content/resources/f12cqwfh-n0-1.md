@@ -5,6 +5,7 @@ file: /media/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/b
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Document
 title: 3play pdf file
 uid: bb28084e-8f44-b130-002a-19e20d56f392

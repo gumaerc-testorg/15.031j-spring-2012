@@ -5,6 +5,7 @@ file: /media/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/9
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Other
 title: 3play caption file
 uid: 9b3bffdf-0bd6-5885-acab-7a247eb364dc

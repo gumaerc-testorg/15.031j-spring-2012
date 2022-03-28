@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
+parent_uid: null
 title: Recitations
 uid: 544209e9-3af0-e518-a19d-fff04470f178
 ---
@@ -49,7 +50,7 @@ No recitation materials
 Discussion of Paradigms; Debate Prep
 {{< tdclose >}}
 {{< tdopen >}}
-[Recitation Slides (PDF)]({{< baseurl >}}/resources/mit15_031js12_rec2) (Courtesy of Anagha Ramunujam and Hiram Samel. Used with permission.)
+{{< resource_link b0638366-31b6-1a0f-48bc-99c5dcb53a2b "Recitation Slides (PDF)" >}} (Courtesy of Anagha Ramunujam and Hiram Samel. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +70,7 @@ C-Learn; Climate Game Prep
 {{< tdopen >}}
 
 
-[Recitation Slides (PDF)]({{< baseurl >}}/resources/mit15_031js12_rec3) (Courtesy of Anagha Ramunujam and Hiram Samel. Used with permission.)
+{{< resource_link 97d1c869-a48a-ff6d-e133-c48b341029fb "Recitation Slides (PDF)" >}} (Courtesy of Anagha Ramunujam and Hiram Samel. Used with permission.)
 
 [C-Learn: The International Climate Simulation](http://climateinteractive.org/simulations/c-learn/simulation)
 
@@ -85,7 +86,7 @@ C-Learn; Climate Game Prep
 Climate Agreement Negotiations II
 {{< tdclose >}}
 {{< tdopen >}}
-[Recitation Slides (PDF - 1.1MB)]({{< baseurl >}}/resources/mit15_031js12_rec4)
+{{< resource_link f16382f8-e2a8-5b65-274c-71a95d4fa0cb "Recitation Slides (PDF - 1.1MB)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,11 +106,11 @@ Derived Demand and Capital Practice; Discussion of Final Paper Assignment
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit15_031js12_dvd_dm_cptl)
+{{< resource_link db744fa6-e7cc-d841-c795-3dad7f3d0274 "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit15_031js12_ddc_sltn) (Courtesy of MIT Student. Used with permission.)
+{{< resource_link 5f8b40e8-95e8-fb2e-879e-318637618458 "Solutions (PDF)" >}} (Courtesy of MIT Student. Used with permission.)
 
-[Spreadsheet (XLS)]({{< baseurl >}}/resources/mit15_031js12_ddc_spdsht) (Courtesy of MIT Student. Used with permission.)
+{{< resource_link 4354c5cf-b9c3-e3cc-d0a6-2e6150761a3f "Spreadsheet (XLS)" >}} (Courtesy of MIT Student. Used with permission.)
 
 
 {{< tdclose >}}
@@ -123,7 +124,7 @@ Derived Demand and Capital Practice; Discussion of Final Paper Assignment
 Review; Finalization of Final Paper Teams & Topics
 {{< tdclose >}}
 {{< tdopen >}}
-[Recitation Slides (PDF)]({{< baseurl >}}/resources/mit15_031js12_rec6)
+{{< resource_link 019c83c7-76a2-33df-128a-b42e62fe8d5a "Recitation Slides (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -165,7 +166,7 @@ No recitation materials
 Production Planning for Non-renewables; Discussion of Paper Outlines
 {{< tdclose >}}
 {{< tdopen >}}
-[Recitation Slides (PDF)]({{< baseurl >}}/resources/mit15_031js12_rec9)
+{{< resource_link 9ce0dc62-2eab-34ef-8af8-4450843a14ed "Recitation Slides (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -207,7 +208,7 @@ No recitation materials
 Review
 {{< tdclose >}}
 {{< tdopen >}}
-[Recitation Slides (PDF)]({{< baseurl >}}/resources/mit15_031js12_rec12)
+{{< resource_link 6dbac628-031b-4769-e1b1-53bf2be05026 "Recitation Slides (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}

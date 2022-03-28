@@ -1,18 +1,18 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Organizational Decision-Making: Biodiesel at MIT (PDF - 1.3MB)](resources/mit15_031js12_lec12)'
 parent_title: Video Lectures
 parent_type: CourseSection
+parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Lecture 12: Organizational Decision-Making: Biodiesel at MIT'
 uid: c7d65dca-15db-220a-d011-bec3de5d1b5b
 video_files:

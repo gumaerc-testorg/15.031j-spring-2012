@@ -1,18 +1,18 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[U.S. Energy Problems (PDF)](resources/mit15_031js12_lec3)'
 parent_title: Video Lectures
 parent_type: CourseSection
+parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Lecture 3: U.S. Energy Problems'
 uid: 8b9ace6f-9483-4807-e1cc-9e73aa179a10
 video_files:

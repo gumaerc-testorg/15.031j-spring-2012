@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Syllabus
 uid: e159f4f4-ce06-ec35-3e79-63f979c240c3
 ---
@@ -96,7 +97,7 @@ Resources
 
 When approaching the reading assignments, it is recommended that you take notes when reading to help you learn the material and develop your own communication skills. The following guide covers how to tackle the readings most efficiently and effectively:
 
-[A Guide to Reading Social Science: How to work through long reading assignments (PDF)]({{< baseurl >}}/resources/mit15_031js12_read_guide), prepared by Prof. Schmalensee.
+{{< resource_link 1ea3c46a-d438-6fc4-b3ca-69a69c4750b9 "A Guide to Reading Social Science: How to work through long reading assignments (PDF)" >}}, prepared by Prof. Schmalensee.
 
 For written work, you may wish to consult the following resources on writing social science papers and on the mechanics of good writing, respectively:
 
