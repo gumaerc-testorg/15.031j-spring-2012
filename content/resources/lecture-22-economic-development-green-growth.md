@@ -1,18 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
 ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Economic Development & Green Growth (PDF)](resources/mit15_031js12_lec22)'
+optional_text: '[Economic Development & Green Growth (PDF)](/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/resources/mit15_031js12_lec22)'
 parent_title: Video Lectures
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 22: Economic Development & Green Growth'
 uid: 5ae75afb-33a7-93a8-bc4e-5f5406527cca
 video_files:
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture features a guest speaker, Bob DiMatteo, the CEO and chairman of MTPV. He speaks about micron-gap thermalphotovoltaics and entrepreneuship in the energy field. Later, a short lecture is given on the green growth model.
 
 **Instructor:** Bob DiMatteo, Richard Schmalensee
+
+
+

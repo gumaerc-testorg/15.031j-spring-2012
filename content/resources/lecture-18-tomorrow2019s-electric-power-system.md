@@ -1,18 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
 ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Tomorrow''s Electric Power System (PDF - 1.9MB)](resources/mit15_031js12_lec18)'
+optional_text: '[Tomorrow''s Electric Power System (PDF - 1.9MB)](/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/resources/mit15_031js12_lec18)'
 parent_title: Video Lectures
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 18: Tomorrow\u2019s Electric Power System"
 uid: 163f5197-ea4a-2358-2cb5-b8b61e77c194
 video_files:
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture focuses on future challenges that await grid technology on the policy, economic, and technological fronts. RD&D and dynamic pricing are offered as avenues toward solutions, though the primary issues still rests in policy and regulation.
 
 **Instructor:** Richard Schmalensee
+
+
+

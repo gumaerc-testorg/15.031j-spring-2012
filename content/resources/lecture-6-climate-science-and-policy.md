@@ -1,18 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
 ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Climate Science and Policy (PDF)](resources/mit15_031js12_lec6)'
+optional_text: '[Climate Science and Policy (PDF)](/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/resources/mit15_031js12_lec6)'
 parent_title: Video Lectures
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 6: Climate Science and Policy'
 uid: 131741ff-3785-1934-62d0-4ee523cba1e2
 video_files:
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture presents the issues of time-scales and uncertainties as barriers to climate change. Three views on discounting are discussed as well as strategies for reducing global costs, adapting to new technologies, and reducing CO{{< sub "2" >}} emissions.
 
 **Instructor:** Richard Schmalensee, Susan Solomon
+
+
+

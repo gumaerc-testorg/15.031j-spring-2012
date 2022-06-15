@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/6b86c85e331814b5e3b7ebd4ad54aa2a_15-031J_stat-students.png
+file: /courses/15-031j-energy-decisions-markets-and-policies-spring-2012/6b86c85e331814b5e3b7ebd4ad54aa2a_15-031J_stat-students.png
 file_type: image/png
 image_metadata:
   caption: ''

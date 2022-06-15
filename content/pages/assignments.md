@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: This section provides guidelines and instructions for the individual
+  reflection paper and the final team paper required for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
-parent_uid: null
 title: Assignments
 uid: 1214112e-4a9f-8999-f3c3-14dc35cfad46
 ---

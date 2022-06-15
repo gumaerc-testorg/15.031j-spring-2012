@@ -1,10 +1,11 @@
 ---
 content_type: video_gallery
+description: This section contains full-length video lectures that capture class lectures
+  and discussions.
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection
-parent_uid: null
 title: Video Lectures
 uid: 0646fe41-eed5-1f2d-80b3-4e9ed64143a4
 videos:

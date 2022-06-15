@@ -1,18 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
 ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Social Movements (PDF)](resources/mit15_031js12_lec20)'
+optional_text: '[Social Movements (PDF)](/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/resources/mit15_031js12_lec20)'
 parent_title: Video Lectures
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 20: Social Movements'
 uid: eefb5f9a-2c4b-6d92-2947-690cac871565
 video_files:
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture explores drivers of movements, such as interest groups and changing preferences, and how they affect environmental movements as well as the formation of public policy, efforts, and parties.
 
 **Instructor:** Richard Schmalensee
+
+
+
