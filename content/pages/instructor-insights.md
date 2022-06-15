@@ -1,22 +1,21 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
-parent_uid: null
 title: Instructor Insights
 uid: 82d00a64-0fda-357e-e8bb-d13dc6e1fab4
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _15.031J Energy Decisions, Markets, and Policies_ as it was taught by Professor Richard Schmalensee in Spring 2012.
 
 This course examined the choices and constraints regarding sources and uses of energy by households, firms, and governments through a number of frameworks to describe and explain behavior at various levels of aggregation. Examples included a wide range of countries, scopes, settings, and analytical approaches.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
@@ -28,19 +27,17 @@ This course was required for undergraduate [Energy Studies minors](http://mitei.
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Interview
 
 {{< quote "We […] emphasized class discussion and interaction." "—Richard Schmalensee" >}}
 
-_Below, Professor Richard Schmalensee describes various aspects of how he taught _15.031J Energy Decisions, Markets, and Policies_._
+_Below, Professor Richard Schmalensee describes various aspects of how he taught_ 15.031J Energy Decisions, Markets, and Policies.
 
 _15.031J Energy Decisions, Markets, and Policies_ was normally taught by a team of instructors (the single-instructor format that was recorded for publication on OCW was atypical). Our team worked together on all aspects of designing the course—from curating the reading list to developing the details of the assignments. With the exception of the Spring 2012 offering of the course, we were all in the classroom during each class session. This led to engaging discussions between instructors and interjections that allowed students to see different ways of approaching the issues at the center of our curriculum. Students valued this opportunity.
 
-As a team, we also emphasized class discussion and interaction to a greater degree than most undergraduate courses because we were accustomed to teaching MIT Sloan MBA students. In fact, two of our pedagogical decisions were specifically designed to engage students in learning from each other. For example, we created the {{< resource_link 1214112e-4a9f-8999-f3c3-14dc35cfad46 "team paper assignment" >}} to give students an opportunity to work collaboratively while delving more deeply into a topic of interest. We also included oral presentations of the final team papers to create opportunities for students to learn from (and to be critical of) the work of their colleagues.
+As a team, we also emphasized class discussion and interaction to a greater degree than most undergraduate courses because we were accustomed to teaching MIT Sloan MBA students. In fact, two of our pedagogical decisions were specifically designed to engage students in learning from each other. For example, we created the {{% resource_link 1214112e-4a9f-8999-f3c3-14dc35cfad46 "team paper assignment" %}} to give students an opportunity to work collaboratively while delving more deeply into a topic of interest. We also included oral presentations of the final team papers to create opportunities for students to learn from (and to be critical of) the work of their colleagues.
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -56,8 +53,7 @@ This course is occasionally offered during the fall semester.
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
@@ -66,10 +62,11 @@ The students' grades were based on the following activities:
 - 40% Team project
 - 10% Class participation
 
-Student Information
--------------------
+## Student Information
 
-![On average, 60 students take this course each time it is offered.]({{< resource_file 6b86c85e-3318-14b5-e3b7-ebd4ad54aa2a >}})
+### Enrollment
+
+About 60 students
 
 ### Breakdown by Year
 
@@ -89,26 +86,22 @@ The class size should small enough to permit discussion – perhaps around 50 or
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-Lectures
---------
+### Lectures
 
-*   Met 2 times per week for 90 minutes per session; 24 sessions total; mandatory attendance.
-*   Class sessions varied. Some were lectures; others were mainly discussions of cases. We devoted two sessions to a climate change negotiation game.
-*   We used a climate change negotiation game both to emphasize important aspects of the climate change policy problem and to break the ice by encouraging students to interact with each other and by interacting with them very informally.
+- Met 2 times per week for 90 minutes per session; 24 sessions total; mandatory attendance.
+- Class sessions varied. Some were lectures; others were mainly discussions of cases. We devoted two sessions to a climate change negotiation game.
+- We used a climate change negotiation game both to emphasize important aspects of the climate change policy problem and to break the ice by encouraging students to interact with each other and by interacting with them very informally.
 
-Recitation
-----------
+### Recitation
 
-*   1 time per week for 90 minutes per session.
-*   Recitation sessions often covered specific topics or tools not covered in the lectures.
+- 1 time per week for 90 minutes per session.
+- Recitation sessions often covered specific topics or tools not covered in the lectures.
 
-Out of Class
-------------
+### Out of Class
 
-*   TAs held regular office hours that the students utilized, but few sought out professors outside class.
-*   Students completed required readings and assignments.
+- TAs held regular office hours that the students utilized, but few sought out professors outside class.
+- Students completed required readings and assignments.
