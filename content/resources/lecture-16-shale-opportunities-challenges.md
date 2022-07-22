@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Shale: Opportunities & Challenges (PDF)](/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/resources/mit15_031js12_lec16)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture focuses on hydraulic cracking, or fracking, and its environmental consequences and impact on policy as seen from the perspectives of key stakeholders. Discussion includes a thought experiment about having a shale resource in Massachusetts.
 
 **Instructor:** Richard Schmalensee
-
-
 

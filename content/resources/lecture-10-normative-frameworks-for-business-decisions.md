@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Normative Frameworks for Business Decisions (PDF)](/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/resources/mit15_031js12_lec10)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture introduces how economic concepts including net present value, discount rates, and time value impact energy services and the energy market. Risk-return analyses and investment strategies are also discussed.
 
 **Instructor:** Richard Schmalensee
-
-
 

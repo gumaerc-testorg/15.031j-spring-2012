@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Non-Renewable Energy Resources (PDF - 5.9MB)](/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/resources/mit15_031js12_lec15)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture focuses on the state of non-renewable energy on the global market. Classic hotelling theory is covered in the beginning, and then oil, coal, and natural gas markets are analyzed over the across geographies and time.
 
 **Instructor:** Richard Schmalensee
-
-
 

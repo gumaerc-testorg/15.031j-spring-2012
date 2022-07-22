@@ -5,6 +5,7 @@ file: /courses/15-031j-energy-decisions-markets-and-policies-spring-2012/9127d83
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 13 Reading: Husky Case Discussion Questions'
 uid: 9127d839-8da2-ac9e-2bfd-2cb41c0ad636
 ---
 This resource contains information regarding husky case discussion questions.
-

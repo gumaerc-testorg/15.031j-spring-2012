@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Energy Use by Individuals and Households (PDF)](/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/resources/mit15_031js12_lec9)
@@ -29,6 +30,4 @@ video_metadata:
 **Description:** This lecture frames decisions affecting energy use as framed by social science and factors that influence decision-making. The lecture makes use of a research study conducted on towel reuse, and a class discussion of group identities.
 
 **Instructor:** Susan Silbey
-
-
 

@@ -5,6 +5,7 @@ file: /courses/15-031j-energy-decisions-markets-and-policies-spring-2012/feb474b
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 4 Reading: Debate Preparation'
 uid: feb474b7-4615-2893-51d6-c0eb64f4c331
 ---
 This resource contains information regarding debate preparation.
-

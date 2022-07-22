@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Path Dependence in Energy Systems (PDF)](/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/resources/mit15_031js12_lec5)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture focuses on path dependence and the obstacles discouraging changes in energy systems. Several examples of energy systems are given, including those unable to be changed as well as those that were changed in light of path dependence.
 
 **Instructor:** Richard Schmalensee
-
-
 

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[U.S. Energy Problems (PDF)](/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/resources/mit15_031js12_lec3)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture focuses on energy issues during the recent history of the U.S., ranging from the creation of the EPA to the problems faced by the Obama administration. A computer model is used to demonstrate projections and issues surrounding negotiations.
 
 **Instructor:** Richard Schmalensee
-
-
 

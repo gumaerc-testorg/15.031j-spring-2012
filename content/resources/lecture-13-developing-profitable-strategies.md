@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Developing Profitable Strategies (PDF)](/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/resources/mit15_031js12_lec13)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture focuses on business strategies, drivers of competitive advantage, and factors that affect product value. A facilitated discussion of the Husky case highlights value-based and differentiating strategies.
 
 **Instructor:** Richard Schmalensee
-
-
 

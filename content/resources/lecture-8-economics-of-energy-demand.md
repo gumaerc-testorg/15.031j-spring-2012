@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Economics of Energy Demand (PDF)](/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/resources/mit15_031js12_lec8)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** The lecture focuses on how to estimate, calculate, and predict energy demand. Considerations for short-run and long-run demand are taken, and the efficiency paradox is also discussed.
 
 **Instructor:** Richard Schmalensee
-
-
 

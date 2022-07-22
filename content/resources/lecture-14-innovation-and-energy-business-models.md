@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Innovation and Energy Business Models (PDF)](/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/resources/mit15_031js12_lec14)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** The lecture highlights how technology maturity, scale, scope, and capabilities of innovations affect the business model for that new innovation. Discussion about energy at different phases of innovation ensues.
 
 **Instructor:** Donald Lessard
-
-
 

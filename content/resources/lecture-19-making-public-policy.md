@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Making Public Policy (PDF)](/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/resources/mit15_031js12_lec19)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture focuses on the development of public policy and the roles that interest groups and factions play in governance. The creation of America's democracy is used as an example, followed by EPA regulation.
 
 **Instructor:** Richard Schmalensee
-
-
 

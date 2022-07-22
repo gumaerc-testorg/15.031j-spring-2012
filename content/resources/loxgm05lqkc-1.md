@@ -4,6 +4,7 @@ description: ''
 file: /courses/15-031j-energy-decisions-markets-and-policies-spring-2012/c270bbafcd305ba633ab60d02386ec07_LoXGM05lqKc.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

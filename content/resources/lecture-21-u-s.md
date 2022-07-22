@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[U.S. Environment Policy (PDF)](/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/resources/mit15_031js12_lec21)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture focuses on the politics of regulation through a series of case discussion surrounding the EPA and setting emissions standards in response to air pollution, coal emissions, and acid rain.
 
 **Instructor:** Richard Schmalensee
-
-
 

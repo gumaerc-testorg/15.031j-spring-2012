@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Comparative Energy Systems (PDF - 2.6MB)](/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/resources/mit15_031js12_lec2)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture provides a general overview of various energy systems on a global scale as well as a comparison of energy consumption in correlation to GDP, industry, and recent growth.
 
 **Instructor:** Richard Schmalensee
-
-
 
