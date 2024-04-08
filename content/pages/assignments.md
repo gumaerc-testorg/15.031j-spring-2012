@@ -32,7 +32,7 @@ Address the following questions and use them as a guide in writing your reflecti
 
 Write a minimum of one and not more than two single-spaced pages to address the above points. Please don't just give a blow-by-blow description of the negotiations.
 
-The following data sets are the results from the in-class negotiations of the Climate Game. However, you can produce your own through the [C-Learn Climate Simulation](http://climateinteractive.org/simulations/c-learn/simulation).
+The following data sets are the results from the in-class negotiations of the Climate Game. However, you can produce your own through the {{% resource_link "14534031-9994-40bb-bfaf-88c59ca5692e" "C-Learn Climate Simulation" %}}.
 
 ### Wednesday (Lecture 7) ROUND 1, World 1
 
