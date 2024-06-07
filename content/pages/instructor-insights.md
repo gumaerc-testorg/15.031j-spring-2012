@@ -23,7 +23,7 @@ Our main goals were to show students first that energy-related problems are not 
 
 ### Possibilities for Further Study/Careers
 
-This course was required for undergraduate {{% resource_link "ca3f343e-0fd9-49f8-902c-146b28df4984" "Energy Studies minors" %}}, but drew many students from beyond that minor.
+This course was required for undergraduate [Energy Studies minors](http://mitei.mit.edu/education/energy-minor), but drew many students from beyond that minor.
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
@@ -74,7 +74,7 @@ Almost all juniors or seniors, with more juniors than seniors. Typically, one or
 
 ### Breakdown by Major
 
-The majority of students were from the {{% resource_link "dd39edeb-0339-4316-89f8-c53cb2aca2b7" "School of Engineering" %}}, mainly chemical and mechanical majors. There were also a few economics and management majors. Very few students were from the Schools of {{% resource_link "a0ddcd4e-035f-498a-ada1-6af345208466" "Science" %}} or {{% resource_link "43b3f058-cf8b-4e26-a219-578ff9affb68" "Architecture & Planning" %}}.
+The majority of students were from the [School of Engineering](http://engineering.mit.edu/), mainly chemical and mechanical majors. There were also a few economics and management majors. Very few students were from the Schools of [Science](http://science.mit.edu/) or [Architecture & Planning](http://sap.mit.edu/).
 
 ### Typical Student Background
 
