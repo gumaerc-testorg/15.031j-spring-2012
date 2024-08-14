@@ -73,7 +73,7 @@ C-Learn; Climate Game Prep
 
 {{% resource_link 97d1c869-a48a-ff6d-e133-c48b341029fb "Recitation Slides (PDF)" %}} (Courtesy of Anagha Ramunujam and Hiram Samel. Used with permission.)
 
-{{% resource_link "14534031-9994-40bb-bfaf-88c59ca5692e" "C-Learn: The International Climate Simulation" %}}
+{{% resource_link "d889ed3f-863a-4c78-8ac3-73206179f5ce" "C-Learn: The International Climate Simulation" %}}
 
 
 {{< tdclose >}}
