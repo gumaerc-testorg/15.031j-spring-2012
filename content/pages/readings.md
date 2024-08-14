@@ -13,11 +13,11 @@ The following texts are referenced as readings on multiple occasions:
 
 \[B\] = Brealey, R., S. Myers, and F. Allen. *Principles of Corporate Finance*. 10th ed. McGraw-Hill, 2010. ISBN: 9780077404895.
 
-\[G\] = Giugni, M., D. McAdam, C. Tilly, eds. *How Social Movements Matter*. University of Minnesota Press, 1999. ISBN: 9780816629152. \[Preview with {{% resource_link "b26021f1-3f33-4e23-baa7-434a1fa29a0c" "Google Books" %}}\]
+\[G\] = Giugni, M., D. McAdam, C. Tilly, eds. *How Social Movements Matter*. University of Minnesota Press, 1999. ISBN: 9780816629152. \[Preview with {{% resource_link "d8084b1c-d330-4f57-ae9b-09a156bcc13e" "Google Books" %}}\]
 
-\[M\] = MIT Energy Initiative. "{{% resource_link "6db71495-4040-440e-a6a2-3a64e3697b65" "The Future of the Electric Grid" %}}." MIT Energy Initiative, 2011.
+\[M\] = MIT Energy Initiative. "{{% resource_link "0d648e53-677e-4b46-bf6e-476dc5caab5b" "The Future of the Electric Grid" %}}." MIT Energy Initiative, 2011.
 
-![Buy at MIT Press](/images/mp_logo.gif) \[V\] = Viscusi, W. Kip, Joseph E. Harrington, Jr., and John M. Vernon. {{% resource_link "200ff32c-15a6-40e6-b6cc-1b0f60ca8aed" "*Economics of Regulation and Antitrust*" %}}. 4th ed. MIT Press, 2005. ISBN: 9780262220750.
+![Buy at MIT Press](/images/mp_logo.gif) \[V\] = Viscusi, W. Kip, Joseph E. Harrington, Jr., and John M. Vernon. {{% resource_link "34b51866-0078-48e1-85db-135daec06df8" "*Economics of Regulation and Antitrust*" %}}. 4th ed. MIT Press, 2005. ISBN: 9780262220750.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 LEC #
@@ -37,7 +37,7 @@ This Course and The U.S. Energy System
 
 U.S. National Research Council. "Context and Challenges." Chapter 1 in *America's Energy Future*. National Academies Press, 2009, pp. 1–30. ISBN: 9780309141451.
 
-{{% resource_link "0e7fb93f-5e50-4d99-9ffa-fa1cbb902ef5" "\"Annual Energy Review 2011.\" (PDF - 3.4MB)" %}} U.S. *Energy Information Administration.* pp. 1–13.
+{{% resource_link "68692014-5552-4208-97a9-9b56152ae795" "\"Annual Energy Review 2011.\" (PDF - 3.4MB)" %}} U.S. *Energy Information Administration.* pp. 1–13.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -47,9 +47,9 @@ Comparative Energy Systems
 
 ### Required Readings
 
-U.S. Energy Information Agency. {{% resource_link "3dae3d3c-dc45-4014-a269-c022fad40c77" "\"World Energy Demand and Economic Outlook.\" (PDF - 20MB)" %}} Chapter 1 in *International Energy Outlook 2011.* pp. 9–24.
+U.S. Energy Information Agency. {{% resource_link "0c061336-8909-4441-b91e-50f659315553" "\"World Energy Demand and Economic Outlook.\" (PDF - 20MB)" %}} Chapter 1 in *International Energy Outlook 2011.* pp. 9–24.
 
-{{% resource_link "74d2848a-9da6-4c8e-98f1-0a525e141286" "\"Primary Energy Consumption.\" (PDF)" %}} *BP Statistical Review of World Energy 2011.*
+{{% resource_link "03f54116-8337-4c55-aef5-ba3df81a1453" "\"Primary Energy Consumption.\" (PDF)" %}} *BP Statistical Review of World Energy 2011.*
 
 Friedman, T. "Our Carbon Copies (Too Many Americans)." Chapter 3 in *Hot, Flat, and Crowded*. Farrar, Straus, and Giroux, 2008, pp. 53–76. ISBN: 9780374166854.
 
@@ -93,9 +93,9 @@ Mason, Alpheus Thomas, and William M. Beaney. "Carter v Carter Coal, 298 U.S. 23
 
 {{% resource_link "feb474b7-4615-2893-51d6-c0eb64f4c331" "Debate Preparation (PDF)" %}} (Courtesy of Susan Silbey. Used with permission.)
 
-{{% resource_link "a0cd696f-c063-4956-badb-8e3c8548fdff" "Selected Arguments of Antifederalists (1780s)" %}}
+{{% resource_link "95827836-11e6-4a5f-8211-ee4616ba2b2a" "Selected Arguments of Antifederalists (1780s)" %}}
 
-Friedman, Milton. *Capitalism and Freedom*. 40th Anniversary ed. University of Chicago Press, 2002, pp. 12–6. ISBN: 9780226264219. \[Preview with {{% resource_link "01cf79e3-398b-4ca5-82de-616371b098c2" "Google Books" %}}\]
+Friedman, Milton. *Capitalism and Freedom*. 40th Anniversary ed. University of Chicago Press, 2002, pp. 12–6. ISBN: 9780226264219. \[Preview with {{% resource_link "7c7b5598-4a6f-49d0-9cbe-af7260728720" "Google Books" %}}\]
 
 Hayek, Friedrich. *The Road to Serfdom: Text and Documents—The Definitive Edition*. University of Chicago Press, 2007, pp. 71–3. ISBN: 9780226264219.
 
@@ -109,7 +109,7 @@ Mills, C. Wright. "The Promise." In *The Sociological Imagination*. Oxford Unive
 
 ### Recommended Readings
 
-Hughes, T. P. "London: The Primacy of Politics." Chapter IX in *Networks of Power: Electrification in Western Society, 1880-1930*. Johns Hopkins, 1983, pp. 227–60. ISBN: 9780801828737. \[Preview with {{% resource_link "5868a679-ea56-4db2-9c8c-2290fbab66c9" "Google Books" %}}\]
+Hughes, T. P. "London: The Primacy of Politics." Chapter IX in *Networks of Power: Electrification in Western Society, 1880-1930*. Johns Hopkins, 1983, pp. 227–60. ISBN: 9780801828737. \[Preview with {{% resource_link "476d312d-a1e8-47d5-b376-a515fe91d1d9" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -119,13 +119,13 @@ Path Dependence in Energy Systems
 
 ### Required Readings
 
-Gawande, A. "{{% resource_link "288a89f0-4796-4492-bafe-558f0a71de99" "Getting There from Here" %}}." *New Yorker*, January 26, 2009.
+Gawande, A. "{{% resource_link "f56cf446-485a-442c-af05-c7947f581582" "Getting There from Here" %}}." *New Yorker*, January 26, 2009.
 
-Unruh, G. C. {{% resource_link "441ceeb6-1f2a-4d97-97fb-94fc53b869b8" "\"Understanding Carbon Lock-in.\" (PDF - 1.3MB)" %}} *Energy Policy* 28 (2000): 817–30.
+Unruh, G. C. {{% resource_link "9d969ebe-7331-4529-916c-92850b714d8d" "\"Understanding Carbon Lock-in.\" (PDF - 1.3MB)" %}} *Energy Policy* 28 (2000): 817–30.
 
 ### Recommended Readings
 
-Mahoney, J. {{% resource_link "9ec11813-2014-4213-baf0-c753f1ee5ced" "\"Path Dependence in Historical Sociology.\" (PDF)" %}} *Theory and Society* 29, no. 4 (2000): 507–48.
+Mahoney, J. {{% resource_link "ea3dfc21-8aa1-4fc1-b250-6e84e6453ab7" "\"Path Dependence in Historical Sociology.\" (PDF)" %}} *Theory and Society* 29, no. 4 (2000): 507–48.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **The Climate Problem**
@@ -139,19 +139,19 @@ Climate Science and Policy
 
 National Research Council. "America's Climate Choices: Report in Brief." *National Academies Press* (2011).
 
-———. "{{% resource_link "7dc3a58c-b40d-4aeb-a70f-1756966125be" "Limiting the Magnitude of Future Climate Change: Report in Brief" %}}." *National Academies Press* (2010).
+———. "{{% resource_link "09f0c04d-5d3c-4dfc-aeb4-f8fe1e6b6034" "Limiting the Magnitude of Future Climate Change: Report in Brief" %}}." *National Academies Press* (2010).
 
-"{{% resource_link "66c1d563-8cce-4133-b8a5-4b9a9a3a3908" "Getting Warmer: A Special Report on the Carbon Economy" %}}," *The Economist*, December 3, 2009.
+"{{% resource_link "8fb4f6f1-a064-4e18-bbfb-71134174177f" "Getting Warmer: A Special Report on the Carbon Economy" %}}," *The Economist*, December 3, 2009.
 
-"{{% resource_link "cbc59889-23b7-4991-8844-4e4dc547874e" "A Deal in Durban" %}}," *The Economist*, December 17, 2011.
+"{{% resource_link "9ef9c195-2134-4494-ab27-bec822e45d83" "A Deal in Durban" %}}," *The Economist*, December 17, 2011.
 
 ### Recommended Readings
 
-National Research Council. "{{% resource_link "b1485e50-9973-4e68-b57d-0b5aa3a8effb" "America's Climate Choices: Advancing the Science of Climate Change: Report in Brief" %}}." *National Academies Press* (2010).
+National Research Council. "{{% resource_link "6f1ce2a4-4db1-4e1b-82eb-6876cc1f9d6b" "America's Climate Choices: Advancing the Science of Climate Change: Report in Brief" %}}." *National Academies Press* (2010).
 
-Parsons, J., et al. "{{% resource_link "d1763541-8b9e-4718-aff8-abc995d8c072" "Designing a U.S. Market for CO2" %}}." *Journal of Applied Corporate Finance* 21 (2009): 79–86.
+Parsons, J., et al. "{{% resource_link "f626c1e0-b82d-4e3a-95e2-5e6376f1ef2f" "Designing a U.S. Market for CO2" %}}." *Journal of Applied Corporate Finance* 21 (2009): 79–86.
 
-National Research Council. "{{% resource_link "75d314ac-0b5e-4678-8acf-cd280dc4a220" "Adapting to the Impacts of Climate Change: Report in Brief" %}}." *National Academies Press* (2010).
+National Research Council. "{{% resource_link "0b231e17-e679-4903-9dc2-fb62a0765ffc" "Adapting to the Impacts of Climate Change: Report in Brief" %}}." *National Academies Press* (2010).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -161,9 +161,9 @@ Climate Agreement Negotiations I & II
 
 ### Required Readings
 
-{{% resource_link "9dce0884-e407-4449-b887-aa0859bfa21e" "World Climate: A Computer-Simulation-Based Role-Playing Exercise" %}}
+{{% resource_link "56f04f85-024d-460b-b42f-e97b0c170293" "World Climate: A Computer-Simulation-Based Role-Playing Exercise" %}}
 
-At the site, you can freely access all of the materials needed to play and facilitate the World Climate simulation, including the models, facilitator guides, the negotiation documents, and other materials. Other simulations, animations, and tools recommended, but not required, can be found at {{% resource_link "b23a7e01-35c8-4821-8399-745d7e470903" "Climate Interactive" %}}.
+At the site, you can freely access all of the materials needed to play and facilitate the World Climate simulation, including the models, facilitator guides, the negotiation documents, and other materials. Other simulations, animations, and tools recommended, but not required, can be found at {{% resource_link "d96725fc-b8d5-4191-8fdb-3a9391cf5d30" "Climate Interactive" %}}.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Household and Organization Decision-Making**
@@ -177,15 +177,15 @@ Economics of Energy Demand
 
 {{% resource_link "1513e125-5829-f618-71c7-c89e8f604209" "Note on the Economics of Energy Demand, Teaching Note (PDF)" %}}
 
-McKinsey & Company. "{{% resource_link "1dc948bb-aa4f-427a-b958-1715feba1e6c" "Executive Summary" %}}." *Unlocking Energy Efficiency in the U.S. Economy* (2009).
+McKinsey & Company. "{{% resource_link "df251b84-b021-4b27-9bbb-ab59d30452d9" "Executive Summary" %}}." *Unlocking Energy Efficiency in the U.S. Economy* (2009).
 
 ### Recommended Readings
 
-Smil, V. {{% resource_link "c7d0d4cb-867f-45f7-b18c-5cd5e751ad10" "\"Energy in the Twentieth Century: Resources, Conversions, Costs, Uses, and Consequences.\" (PDF)" %}} *Annual Review of Energy and the Environment* 25 (2000): 21–51.
+Smil, V. {{% resource_link "61c65ad7-d2f4-430d-8c4c-a4715aa15640" "\"Energy in the Twentieth Century: Resources, Conversions, Costs, Uses, and Consequences.\" (PDF)" %}} *Annual Review of Energy and the Environment* 25 (2000): 21–51.
 
-Goodwin, P., J. Dargay, et al. "{{% resource_link "791fb7dc-0a29-4bac-bbfd-2443d9ad1859" "Elasticities of Road Traffic and Fuel Consumption with Respect to Price and Income: A Review" %}}." *Transport Reviews* 24, no. 3 (2004): 275–92.
+Goodwin, P., J. Dargay, et al. "{{% resource_link "44f121a2-fed3-431a-a38d-7480259d43cd" "Elasticities of Road Traffic and Fuel Consumption with Respect to Price and Income: A Review" %}}." *Transport Reviews* 24, no. 3 (2004): 275–92.
 
-Hausman, J. A., and P. L. Joskow. "{{% resource_link "0a94fe0c-e93f-4e04-b782-a4dfe0f5c918" "Evaluating the Costs and Benefits of Appliance Efficiency Standards" %}}." *American Economic Review* 72, no. 2 (1982): 220–5.
+Hausman, J. A., and P. L. Joskow. "{{% resource_link "c09ed923-5fef-4c0f-bb50-e071e41cfe03" "Evaluating the Costs and Benefits of Appliance Efficiency Standards" %}}." *American Economic Review* 72, no. 2 (1982): 220–5.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -195,9 +195,9 @@ Energy Use by Individuals and Households
 
 ### Required Readings
 
-Griskevicius, V., R. Cialdini, et al. "{{% resource_link "04565e09-73be-4145-b6f8-e58b84d5423a" "Applying (and Resisting) Peer Influence" %}}." *MIT Sloan Management Review* 49, no. 2 (2008): 84–8.
+Griskevicius, V., R. Cialdini, et al. "{{% resource_link "fe5a8e5a-c91a-451a-98b7-f8c74b6995d7" "Applying (and Resisting) Peer Influence" %}}." *MIT Sloan Management Review* 49, no. 2 (2008): 84–8.
 
-Goldstein, N., R. Cialdini, et al. "{{% resource_link "fc31dd7c-10b1-479f-ab42-26a55d4d141e" "A Room with a Viewpoint: Using Social Norms to Motivate Environmental Conservation in Hotels" %}}." *Journal of Consumer Research* 35, no. 3 (2008): 472–82.
+Goldstein, N., R. Cialdini, et al. "{{% resource_link "49ac74ef-aa57-4c29-b61b-3b6ac7295cdb" "A Room with a Viewpoint: Using Social Norms to Motivate Environmental Conservation in Hotels" %}}." *Journal of Consumer Research* 35, no. 3 (2008): 472–82.
 
 ### Recommended Readings
 
@@ -211,9 +211,9 @@ Normative Frameworks for Business Decisions
 
 ### Required Readings
 
-Friedman, M. "{{% resource_link "5b273855-a781-4cc3-9190-4a1a56f0da32" "The Social Responsibility of Business is to Increase its Profits" %}}." *The New York Times Magazine*, September 13, 1970.
+Friedman, M. "{{% resource_link "da960e3a-9a42-4edf-a9e4-1042666c6075" "The Social Responsibility of Business is to Increase its Profits" %}}." *The New York Times Magazine*, September 13, 1970.
 
-Handy, C. "{{% resource_link "0ef70c3b-65b6-4079-84d8-70a5db75f05d" "What's a Business For?" %}}" *Harvard Business Review* 80 (2002): 49–56.
+Handy, C. "{{% resource_link "d7f56cd7-9dd6-4d53-91d2-d9e5af800627" "What's a Business For?" %}}" *Harvard Business Review* 80 (2002): 49–56.
 
 Pindyck, R., and D. Rubinfeld. *Microeconomics*. 7th ed. Prentice Hall, 2008, pp. 551–68. ISBN: 9780132080231.
 
@@ -231,9 +231,9 @@ Ingersoll, C., D. Mehrotra, and J. Sterman. "Waste Heat Recovery at Hexion." *MI
 
 ### Recommended Readings
 
-Margonelli, L. "{{% resource_link "3b135f89-9acb-42c7-ac87-8f7bd506da19" "Waste Not" %}}." *TheAtlantic.com*, May 2008.
+Margonelli, L. "{{% resource_link "c16a4408-f1e3-4212-ae24-6574f1bd2cae" "Waste Not" %}}." *TheAtlantic.com*, May 2008.
 
-Lindley, D. "{{% resource_link "46959769-3ec4-41df-b896-a223398d80ab" "The Energy Should Always Work Twice" %}}." *Nature* 458, no. 12 (2009): 138–41.
+Lindley, D. "{{% resource_link "d7ee5b85-f110-42c6-b8b5-227fd22d3256" "The Energy Should Always Work Twice" %}}." *Nature* 458, no. 12 (2009): 138–41.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -247,15 +247,15 @@ Organizational Decision-Making: Biodiesel at MIT
 
 ### Required Readings
 
-Cohen, M., J. March, et al. "{{% resource_link "034b7218-2003-47cc-a2df-71b9e1a20ae4" "A Garbage Can Model of Organizational Choice" %}}." *Administrative Science Quarterly* 17, no. 1 (1972): 1–25.
+Cohen, M., J. March, et al. "{{% resource_link "cf1cdf4a-0a4c-4671-84ce-476391fff57e" "A Garbage Can Model of Organizational Choice" %}}." *Administrative Science Quarterly* 17, no. 1 (1972): 1–25.
 
 ### Recommended Readings
 
-Kagan, R., N. Gunningham, et al. "{{% resource_link "c8384474-3318-43d7-adab-44d99974ea15" "Explaining Corporate Environmental Performance: How Does Regulation Matter?" %}}" *Law & Society Review* 37, no. 1 (2003): 51–90.
+Kagan, R., N. Gunningham, et al. "{{% resource_link "6a4ac480-92cd-4c29-89c3-ce783e5033db" "Explaining Corporate Environmental Performance: How Does Regulation Matter?" %}}" *Law & Society Review* 37, no. 1 (2003): 51–90.
 
-Sharma, S. "{{% resource_link "fa000220-e88e-47a6-9d42-4a025556a6dc" "Managerial Interpretations and Organizational Context as Predictors of Corporate Choice of Environmental Policy" %}}." *Academy of Management Journal* 43, no. 4 (2000): 681–97.
+Sharma, S. "{{% resource_link "93c27e60-e9f9-4e93-9d92-c0c1edfe95dc" "Managerial Interpretations and Organizational Context as Predictors of Corporate Choice of Environmental Policy" %}}." *Academy of Management Journal* 43, no. 4 (2000): 681–97.
 
-Loundsbury, M. "{{% resource_link "d0fda1b5-33aa-44fb-91c4-57a3349706f1" "Institutional Sources of Practice Variation: Staffing College and University Recycling Programs" %}}." *Administrative Science Quarterly* 45, no. 46 (2001): 29–56.
+Loundsbury, M. "{{% resource_link "285bb07e-1c5d-404c-9cb7-f4b852d27824" "Institutional Sources of Practice Variation: Staffing College and University Recycling Programs" %}}." *Administrative Science Quarterly* 45, no. 46 (2001): 29–56.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -271,7 +271,7 @@ Rivkin, Jan W. "Husky Injection Molding Systems." Harvard Business School Case. 
 
 ### Required Readings
 
-Porter, Michael. "{{% resource_link "b036971f-1675-4ec3-b284-68b06d40c01a" "What is Strategy?" %}}" *Harvard Business Review*, Nov-Dec 1996, 61–78.
+Porter, Michael. "{{% resource_link "922abf94-67eb-4794-921d-df882f49aa80" "What is Strategy?" %}}" *Harvard Business Review*, Nov-Dec 1996, 61–78.
 
 Chapter 11 in \[B\].
 
@@ -285,11 +285,11 @@ Innovation and Energy Business Models
 
 Christensen, C. M. "Managing Disruptive Technological Change: A Case Study." Chapter 9 in *The Innovator's Dilemma*. Harvard Business School Press, 1997.
 
-Roberts, E., and W. Liu. "{{% resource_link "c2e2b4db-c12d-4426-811c-ce7da6348f81" "Ally or Acquire? How Technology Leaders Decide" %}}." *Sloan Management Review* 43, no. 1 (2001): 26–34; reprint no. 4312.
+Roberts, E., and W. Liu. "{{% resource_link "8e74cd91-560b-41e8-9c41-c937bd5ceb55" "Ally or Acquire? How Technology Leaders Decide" %}}." *Sloan Management Review* 43, no. 1 (2001): 26–34; reprint no. 4312.
 
 ### Recommended Readings
 
-Munir, K., and N. Phillips. "{{% resource_link "56d4a57e-afeb-4880-8b1c-184718368b46" "The Concept of Industry and the Case of Radical Technological Change" %}}." *The Journal of High Technology Management Research* 13, no. 2 (2002): 279–97.
+Munir, K., and N. Phillips. "{{% resource_link "9d07804d-d0db-42f2-bd5d-3d2ad2bb6a3f" "The Concept of Industry and the Case of Radical Technological Change" %}}." *The Journal of High Technology Management Research* 13, no. 2 (2002): 279–97.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Primary Energy & Electric Power**
@@ -305,7 +305,7 @@ Pindyck, R., and D. Rubinfeld. *Microeconomics*. 7th ed. Prentice Hall, 2008, pp
 
 ### Recommended Readings
 
-Krautkraemer, J., and M. Toman. "{{% resource_link "64bd8460-dc5a-45f7-9b6a-d187754880da" "Fundamental Economics of Depletable Energy Supply" %}}." *Resources for the Future Discussion Paper 03-01* (2003).
+Krautkraemer, J., and M. Toman. "{{% resource_link "9dc02c2c-56e8-466e-9340-d0f577eec8d5" "Fundamental Economics of Depletable Energy Supply" %}}." *Resources for the Future Discussion Paper 03-01* (2003).
 
 Tietenberg, T., and L. Lewis. "The Allocation of Depletable and Renewable Resources: An Overview." In *Environmental & Natural Resource Economics.* 8th ed. Addison-Wesley, 2008, pp. 134–55. ISBN: 9780321485717.
 
@@ -317,17 +317,17 @@ Shale: Opportunities & Challenges
 
 ### Required Readings
 
-Penn Environment. {{% resource_link "69a82fba-fa96-43f0-8646-d4e0b9a73e5b" "\"In the Shadow of the Marcellus Boom: How Shale Gas Extraction Puts Vulnerable Pennsylvanians at Risk.\" (PDF - 1.3MB)" %}} May, 2011.
+Penn Environment. {{% resource_link "15083bda-9f7e-47d5-ad66-5dc0e05a7838" "\"In the Shadow of the Marcellus Boom: How Shale Gas Extraction Puts Vulnerable Pennsylvanians at Risk.\" (PDF - 1.3MB)" %}} May, 2011.
 
-Bipartisan Policy Center Energy Project. "{{% resource_link "81416ee4-4296-4480-a088-ce630f2ced73" "Shale Gas: New Opportunities, New Challenges" %}}." *Bipartisan Policy Center* (2012).
+Bipartisan Policy Center Energy Project. "{{% resource_link "328d9cec-d0df-4c88-93c4-39097d204f7b" "Shale Gas: New Opportunities, New Challenges" %}}." *Bipartisan Policy Center* (2012).
 
-Jacoby, H. D., F. M. O'Sullivan, et al. {{% resource_link "da796164-3c90-49e3-9fe9-7d4110324c8e" "\"The Influence of Shale Gas on U.S. Energy and Environmental Policy.\" (PDF - 1.2MB)" %}} *Economics of Energy & Environmental Policy* 1, no. 1 (2012): 37–51.
+Jacoby, H. D., F. M. O'Sullivan, et al. {{% resource_link "0d0333ba-fbf4-4205-9025-9a6d398aa887" "\"The Influence of Shale Gas on U.S. Energy and Environmental Policy.\" (PDF - 1.2MB)" %}} *Economics of Energy & Environmental Policy* 1, no. 1 (2012): 37–51.
 
 ### Recommended Readings
 
-U.S. Secretary of Energy Advisory Board. "{{% resource_link "1283dfab-2653-46f7-b2e5-9eb918738f59" "Shale Gas Production Subcommittee, 90-Day Report" %}}." *U.S. Department of Energy* (2011).
+U.S. Secretary of Energy Advisory Board. "{{% resource_link "a0e7f8aa-fbbb-4731-8ee7-90437d1e9b78" "Shale Gas Production Subcommittee, 90-Day Report" %}}." *U.S. Department of Energy* (2011).
 
-MIT Energy Initiative. "{{% resource_link "6c2805d5-1959-4c06-a4a8-752fbbb72f20" "The Future of Natural Gas" %}}." MIT Energy Initiative, 2011.
+MIT Energy Initiative. "{{% resource_link "9e113fd9-1524-4129-8bd1-1e815de901dd" "The Future of Natural Gas" %}}." MIT Energy Initiative, 2011.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
@@ -343,7 +343,7 @@ pp. 1–11 and Appendix A in \[M\].
 
 ### Recommended Readings
 
-Griffin, J. M., and S. L. Puller. "Introduction: A Primer on Electricity and the Economics of Deregulation." In *Electricity Deregulation: Choices and Challenges (Bush School Series in the Economics of Public Policy)*. University Of Chicago Press, 2005. ISBN: 9780226308562. \[Preview with {{% resource_link "a1cf4555-e444-4e7e-bce1-871c161c7d6e" "Google Books" %}}\]
+Griffin, J. M., and S. L. Puller. "Introduction: A Primer on Electricity and the Economics of Deregulation." In *Electricity Deregulation: Choices and Challenges (Bush School Series in the Economics of Public Policy)*. University Of Chicago Press, 2005. ISBN: 9780226308562. \[Preview with {{% resource_link "9e6f2523-2b6d-4b76-bdbe-f6909130fab3" "Google Books" %}}\]
 
 Appendix B in \[M\].
 
@@ -357,13 +357,13 @@ Tomorrow's Electric Power System
 
 pp. 11–12 in \[M\].
 
-Joskow, P. L. {{% resource_link "75fab480-b264-48f0-ae1d-bb08b5d69d97" "\"Creating a Smarter U.S. Electricity Grid.\" (PDF)" %}} Sloan Foundation and MIT, discussion draft, October 1, 2011.
+Joskow, P. L. {{% resource_link "d50fd8ff-9dbf-423f-a964-a94678ecd772" "\"Creating a Smarter U.S. Electricity Grid.\" (PDF)" %}} Sloan Foundation and MIT, discussion draft, October 1, 2011.
 
 ### Recommended Readings
 
-"{{% resource_link "75574349-8aa6-434e-903d-6057799736d8" "Smart Grid System Report" %}}." *U.S. Department of Energy* (2009). pp. iii-xii.
+"{{% resource_link "19608cf5-ca40-4c9a-a280-3d7c07b4c512" "Smart Grid System Report" %}}." *U.S. Department of Energy* (2009). pp. iii-xii.
 
-"{{% resource_link "f3aafd87-c12d-4a1d-8e92-c5e0cdc02a0f" "Wiser Wires" %}}," *The Economist*, October 8, 2009.
+"{{% resource_link "3031d1d5-406d-4d5e-8269-76097411df48" "Wiser Wires" %}}," *The Economist*, October 8, 2009.
 
 Chapter 2–9 in \[M\].
 
@@ -383,13 +383,13 @@ Making Public Policy
 
 ### Required Readings
 
-Madison, J. "{{% resource_link "360493ef-fcd7-45d8-b2e2-547fc852c58e" "The Federalist #10" %}}." 1787.
+Madison, J. "{{% resource_link "95df21a6-566d-4097-9650-21825f5c7ed1" "The Federalist #10" %}}." 1787.
 
-Lowi, T. "{{% resource_link "542dc200-b29e-40e2-a8bc-b42a4f12a2bd" "The Public Philosophy: Interest-Group Liberalism" %}}." *American Political Science Review* 61, no. 1 (1967): 5–24.
+Lowi, T. "{{% resource_link "1d5a1d3d-9a76-4cf8-831e-ad688aafdef8" "The Public Philosophy: Interest-Group Liberalism" %}}." *American Political Science Review* 61, no. 1 (1967): 5–24.
 
 ### Recommended Readings
 
-Lowi, T. "{{% resource_link "d5a6cc5e-6fd3-4677-8654-bd2f945b1600" "Four Systems of Policy" %}}." *Public Administration Review* 32, no. 4 (1972): 298–310.
+Lowi, T. "{{% resource_link "9fd02b84-af79-453f-afbc-cbd6b5cf4975" "Four Systems of Policy" %}}." *Public Administration Review* 32, no. 4 (1972): 298–310.
 
 Whitt, J. A. *Urban Elites and Mass Transportation: The Dialectics of Power*. Princeton University Press, 1982, pp. 3–39, 174–210. ISBN: 9780691028262.
 
@@ -403,13 +403,13 @@ Social Movements
 
 Burstein, P. "Social Movements and Public Policy." In \[G\]. pp. 3–21.
 
-Useem, B., and M. Zald. "{{% resource_link "f3f15466-10eb-4f8f-bb4c-4ae6a2c57785" "From Pressure Group to Social Movement: Efforts to Promote Use of Nuclear Power" %}}." *Social Problems* 30, no. 2 (1982): 144–56.
+Useem, B., and M. Zald. "{{% resource_link "50aa49ac-4f84-4b32-8985-49e09f8f9e5e" "From Pressure Group to Social Movement: Efforts to Promote Use of Nuclear Power" %}}." *Social Problems* 30, no. 2 (1982): 144–56.
 
 ### Recommended Readings
 
 Rucht, D. "The Impact of Environmental Movements in Western Societies." In \[G\]. pp. 204–24.
 
-Cotgrove, S., and A. Duff. "{{% resource_link "f42fdfeb-55aa-4f6b-b4aa-54a19bdecb92" "Environmentalism, Middle-Class Radicalism and Politics" %}}." *Sociological* *Review* 28, no. 2 (1980): 333–51.
+Cotgrove, S., and A. Duff. "{{% resource_link "c4d28a3f-7d0f-467d-8748-dc4e1500c312" "Environmentalism, Middle-Class Radicalism and Politics" %}}." *Sociological* *Review* 28, no. 2 (1980): 333–51.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
@@ -441,15 +441,15 @@ Micron-gap Thermal Photovoltaics; Economic Development & Green Growth
 
 ### Required Readings
 
-OECD. {{% resource_link "76920dd4-de1c-4f44-8a4e-a9b8e0e406d6" "\"Towards Green Growth: A Summary for Policy Makers.\" (PDF - 2.7MB)" %}} *OECD* (2011).
+OECD. {{% resource_link "fa4d382d-00c0-44ac-9578-8cef3c472bad" "\"Towards Green Growth: A Summary for Policy Makers.\" (PDF - 2.7MB)" %}} *OECD* (2011).
 
 ### Recommended Readings
 
-UN Environment Program. {{% resource_link "2350b6fa-a7af-49a2-b6d7-18c658e38686" "\"Towards a Green Economy.\"" %}} *UNEP* (2011).
+UN Environment Program. {{% resource_link "5db30c0b-8b07-4ba5-b081-8ad83a3d2795" "\"Towards a Green Economy.\"" %}} *UNEP* (2011).
 
-"{{% resource_link "91a00fa6-f46c-42e1-8a60-16bc40849f91" "A Bad Climate for Development" %}}," *The Economist*, September 17, 2009.
+"{{% resource_link "152a0e8c-e4b5-4cf0-b9b1-f51997858b1d" "A Bad Climate for Development" %}}," *The Economist*, September 17, 2009.
 
-Hogan, D., M. Kapur, et al. {{% resource_link "c6bf3dbd-cdf0-4617-963c-7dc3b1828e88" "\"Rural Electrification in India: The Solar Energy Opportunity.\" (PDF)" %}} Class report, 15.220, Fall 2009.
+Hogan, D., M. Kapur, et al. {{% resource_link "8921daf2-9604-448d-9e62-0f8fe9419177" "\"Rural Electrification in India: The Solar Energy Opportunity.\" (PDF)" %}} Class report, 15.220, Fall 2009.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Final Paper Presentations & Debrief**

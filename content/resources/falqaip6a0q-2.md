@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-031j-energy-decisions-markets-and-policies-spring-2012/c4c671fbbb8051f4ba21ab975609701a_FaLqAip6A0Q.vtt
+file_size: 112758
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

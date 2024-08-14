@@ -27,7 +27,7 @@ We will show that what sometimes seem to be purely technical issues often have m
 
 The course will include examples of cost-benefit, organizational, and institutional analyses of energy production, transformation, and use as well as public policy choices affecting distribution and consumption. More specific topics include the role of markets and prices, financial analysis of new energy-related technologies; institutional path dependence; economic and political determinants of government regulation; the impact of regulation on decisions and feedback into the political/regulatory/energy system. Examples will be drawn from various countries and settings.
 
-This course is one of many [OCW Energy Courses](/courses/energy-courses/), and it is a core subject in MIT's undergraduate {{% resource_link "83a60bec-09e2-4f57-a5f5-41bcf7532555" "Energy Studies Minor" %}}. This Institute-wide program complements the deep expertise obtained in any major with a broad understanding of the interlinked realms of science, technology, and social sciences as they relate to energy and associated environmental challenges.
+This course is one of many [OCW Energy Courses](/courses/energy-courses/), and it is a core subject in MIT's undergraduate {{% resource_link "d4b41011-454b-4318-8b81-c480cc84f319" "Energy Studies Minor" %}}. This Institute-wide program complements the deep expertise obtained in any major with a broad understanding of the interlinked realms of science, technology, and social sciences as they relate to energy and associated environmental challenges.
 
 Prerequisites
 -------------
@@ -37,7 +37,7 @@ Prerequisites
 Assignments
 -----------
 
-There will be an individual paper addressing the negotiations from the Climate Game (a role-playing exercise that is run through {{% resource_link "14534031-9994-40bb-bfaf-88c59ca5692e" "C-Learn Climate Simulation" %}}), and a final team paper that is to be worked on throughout the length of the course. The deliverables for the paper include a detailed outline, the paper itself, and an in-class oral presentation of the paper.
+There will be an individual paper addressing the negotiations from the Climate Game (a role-playing exercise that is run through {{% resource_link "d889ed3f-863a-4c78-8ac3-73206179f5ce" "C-Learn Climate Simulation" %}}), and a final team paper that is to be worked on throughout the length of the course. The deliverables for the paper include a detailed outline, the paper itself, and an in-class oral presentation of the paper.
 
 Grading
 -------
