@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-031j-energy-decisions-markets-and-policies-spring-2012/4e827d78f88feeab667cfd90aef3c645_mKmMDYGO3-Y.pdf
+file: /ol-ocw-studio-app/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/4e827d78f88feeab667cfd90aef3c645_mKmMDYGO3-Y.pdf
 file_size: 138148
 file_type: application/pdf
 learning_resource_types: []
