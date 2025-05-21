@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to clean coal/ dirty air/
   trading filth.
-file: /ol-ocw-studio-app/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/822db6ba4ff384832533c82cf88f0e36_MIT15_031JS12_Trd_Fth_Cse.pdf
+file: /courses/15-031j-energy-decisions-markets-and-policies-spring-2012/822db6ba4ff384832533c82cf88f0e36_MIT15_031JS12_Trd_Fth_Cse.pdf
 file_size: 135538
 file_type: application/pdf
 learning_resource_types:

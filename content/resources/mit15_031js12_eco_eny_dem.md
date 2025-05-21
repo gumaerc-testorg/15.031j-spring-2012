@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding the economics of energy
   demand, teaching note.
-file: /ol-ocw-studio-app/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/1513e1255829f61871c7c89e8f604209_MIT15_031JS12_Eco_Eny_Dem.pdf
+file: /courses/15-031j-energy-decisions-markets-and-policies-spring-2012/1513e1255829f61871c7c89e8f604209_MIT15_031JS12_Eco_Eny_Dem.pdf
 file_size: 173207
 file_type: application/pdf
 learning_resource_types:
