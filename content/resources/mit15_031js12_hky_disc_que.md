@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding husky case discussion questions.
-file: /ol-ocw-studio-app/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/9127d8398da2ac9e2bfd2cb41c0ad636_MIT15_031JS12_Hky_Disc_Que.pdf
+file: /courses/15-031j-energy-decisions-markets-and-policies-spring-2012/9127d8398da2ac9e2bfd2cb41c0ad636_MIT15_031JS12_Hky_Disc_Que.pdf
 file_size: 663397
 file_type: application/pdf
 learning_resource_types:

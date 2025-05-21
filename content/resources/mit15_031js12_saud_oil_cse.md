@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to why not use american coal
   instead of saudi oil?
-file: /ol-ocw-studio-app/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/49e133edc10a68b566c7d05c31124d79_MIT15_031JS12_Saud_Oil_Cse.pdf
+file: /courses/15-031j-energy-decisions-markets-and-policies-spring-2012/49e133edc10a68b566c7d05c31124d79_MIT15_031JS12_Saud_Oil_Cse.pdf
 file_size: 184281
 file_type: application/pdf
 learning_resource_types:
