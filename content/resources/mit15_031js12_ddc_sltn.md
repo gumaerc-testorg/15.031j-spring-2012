@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding derived demand and capital
   practice; discussion of final paper assignment.
-file: /courses/15-031j-energy-decisions-markets-and-policies-spring-2012/5f8b40e895e8fb2e879e318637618458_MIT15_031JS12_DDC_Sltn.pdf
+file: /ol-ocw-studio-app/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/5f8b40e895e8fb2e879e318637618458_MIT15_031JS12_DDC_Sltn.pdf
 file_size: 132899
 file_type: application/pdf
 learning_resource_types:
