@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-031j-energy-decisions-markets-and-policies-spring-2012/63f41efd84cc5d99a324ce9ebe2a7c44_0pB2Wn6fvj4.vtt
+file: /ol-ocw-studio-app/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/63f41efd84cc5d99a324ce9ebe2a7c44_0pB2Wn6fvj4.vtt
 file_size: 94657
 file_type: application/x-subrip
 learning_resource_types: []
